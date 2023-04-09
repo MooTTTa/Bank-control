@@ -1,4 +1,4 @@
-package com.bankcontrol.bankcontrol;
+package com.bankcontrol.bankcontrol.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
